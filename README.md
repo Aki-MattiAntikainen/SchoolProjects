@@ -1,7 +1,7 @@
 # SchoolProjects
 
 Purpose of this repository is to show some of programming work I have done during my university studies. 
-It should be noted that these files do not compile individually as they are only parts of bigger projects.
+It should be noted that these files do not compile individually as they are only parts of bigger projects, involving more than one person.
 The files in this repository are my own work. 
 
 Work from different courses can be distinguished from the commit messages.
